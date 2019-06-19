@@ -1,0 +1,19 @@
+
+<html>
+<style>
+h1{
+font-color:blue;
+font-family:Arial;
+background.color:green;
+}
+</style>
+<head>
+<title>
+<h1> my first webpage</h1>
+</title>
+</head>
+<body>
+<p> Mauritus is created before heaven and heaven is not as luxurious as mauritus</p>
+</body>
+
+</html>
